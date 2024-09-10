@@ -6,5 +6,7 @@ This is a simple web-based drawing app built using the Web Canvas API. Users can
 - Draw freely on the canvas.
 - Clear the entire drawing with a single click using the "Clear Canvas" button.
 
+[Give it a try here!](https://draw-on-canvas.netlify.app)
+
 Perfect for quick sketches or doodles right in your browser!
 
